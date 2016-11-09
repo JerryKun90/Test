@@ -5,3 +5,5 @@ My first github test
 #### Create a new branch 
   git branch XXX;
   git checkout XXX;
+ 
+#### Create a new branch is quick and simple
