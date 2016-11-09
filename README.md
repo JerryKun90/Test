@@ -6,4 +6,4 @@ My first github test
   git branch XXX;
   git checkout XXX;
   add a new dev; 
-#### merge a branch
+#### merge a stash
