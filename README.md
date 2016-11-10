@@ -5,6 +5,7 @@ My first github test
 #### Create a new branch 
   git branch XXX;
   git checkout XXX;
-  add a new dev; 
+  add a new dev;
+  not tract to a remote branch
 #### merge a branch
 #### merge a issue-01
